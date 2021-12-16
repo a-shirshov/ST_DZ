@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artyom/STDZ/function/function.h
+vector
+-
+
+/home/artyom/STDZ/main.cpp
+iostream
+-
+vector
+-
+function/function.h
+/home/artyom/STDZ/function/function.h
+
