@@ -1,4 +1,0 @@
-/home/artyom/STDZ/build/CMakeFiles/edit_cache.dir
-/home/artyom/STDZ/build/CMakeFiles/main.dir
-/home/artyom/STDZ/build/CMakeFiles/rebuild_cache.dir
-/home/artyom/STDZ/build/CMakeFiles/my_lib.dir
